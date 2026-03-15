@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app-magnum4d-prod-mysw-01-gsczf7hscpenceh7.malaysiawest-01.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	f3e07d14767a19a9396b7c5ea96758e38145f150fb39413a5820045a81f2a76a
+www.magnum4d.my	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	f3e07d14767a19a9396b7c5ea96758e38145f150fb39413a5820045a81f2a76a
+app-magnum4d-prod-mysw-01-gsczf7hscpenceh7.malaysiawest-01.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+
